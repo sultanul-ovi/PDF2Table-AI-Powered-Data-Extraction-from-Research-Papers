@@ -42,6 +42,18 @@ PDF2Table/
 └── README.md
 ```
 
+## Results
+
+#### From terminal
+![Application Screenshot](results/output.png)
+
+#### From App
+![Application Screenshot](results/app1.png)
+<!-- ![Application Screenshot](results/app2.png)
+![Application Screenshot](results/app3.png)
+![Application Screenshot](results/app4.png)
+![Application Screenshot](results/app5.png) -->
+
 ---
 
 ## ⚙️ Installation
